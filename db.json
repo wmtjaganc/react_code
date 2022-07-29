@@ -1,0 +1,133 @@
+{
+  "TotalBooks": [
+    {
+      "title": "Harry Potter and the Philosopher's Stone - 25th Anniversary Edition",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publisher": "Bloomsbury Children's Books",
+      "pageCount": 368,
+      "thumbnail": "http://books.google.com/books/content?id=nYKYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "language": "english",
+      "description": "A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by English physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics and people who are interested in learning something new about interesting subjects.",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "title": "Stephen Hawking",
+      "authors": [
+        "jk rowling"
+      ],
+      "publisher": "jk rowling",
+      "pageCount": 122,
+      "thumbnail": "https://tinyurl.com/5bez4z8v",
+      "language": "hindi",
+      "description": "A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by English physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics and people who are interested in learning something new about interesting subjects.",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "title": "All the lights we can not see",
+      "authors": [
+        "harold styless"
+      ],
+      "publisher": "harold styles",
+      "pageCount": 213,
+      "thumbnail": "https://tinyurl.com/2p98ep3b",
+      "language": "hindi",
+      "description": "A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by English physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics and people who are interested in learning something new about interesting subjects.",
+      "rating": 5,
+      "id": 5
+    },
+    {
+      "title": "Life of pie",
+      "authors": [
+        "Liam payne"
+      ],
+      "publisher": "Liam payne",
+      "pageCount": 333,
+      "thumbnail": "https://tinyurl.com/hnnufp4y",
+      "language": "hindi",
+      "description": "A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by English physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics and people who are interested in learning something new about interesting subjects.",
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "title": "All the light we can not sees",
+      "authors": [
+        "asd"
+      ],
+      "publisher": "asd",
+      "pageCount": 132,
+      "thumbnail": "https://tinyurl.com/2p98ep3b",
+      "language": "other",
+      "description": "Hello\n",
+      "rating": 4,
+      "id": 8
+    },
+    {
+      "title": "asd",
+      "authors": [
+        "asd"
+      ],
+      "publisher": "asd",
+      "pageCount": 123,
+      "thumbnail": "http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.54815593.jpeg&w=1920&q=75",
+      "language": "hindi",
+      "description": "asd",
+      "rating": 3,
+      "id": 9
+    },
+    {
+      "title": "asd",
+      "authors": [
+        "asd"
+      ],
+      "publisher": "asd",
+      "publishedDate": "2022-03-02",
+      "pageCount": 234,
+      "thumbnail": "https://tinyurl.com/5bez4z8v",
+      "description": "asd",
+      "language": "english",
+      "rating": 5,
+      "id": 10
+    }
+  ],
+  "Authors": [
+    {
+      "id": 1,
+      "profile": "https://tinyurl.com/2kskpx29",
+      "Name": "J. k. rowling"
+    },
+    {
+      "id": 2,
+      "profile": "https://tinyurl.com/bf2de3s",
+      "Name": "J. k. rowling"
+    },
+    {
+      "id": 3,
+      "profile": "https://tinyurl.com/2kskpx29",
+      "Name": "Nelson Mandela"
+    },
+    {
+      "id": 4,
+      "profile": "https://tinyurl.com/mvhe53hr",
+      "Name": "J. k. rowling"
+    },
+    {
+      "id": 5,
+      "profile": "https://tinyurl.com/2kskpx29",
+      "Name": "J. k. rowling"
+    },
+    {
+      "id": 6,
+      "profile": "https://tinyurl.com/bf2de3s",
+      "Name": "J. k. rowling"
+    },
+    {
+      "id": 1,
+      "profile": "https://tinyurl.com/2kskpx29",
+      "Name": "J. k. rowling"
+    }
+  ]
+}
