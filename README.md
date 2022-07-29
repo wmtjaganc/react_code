@@ -1,7 +1,3 @@
-# web_react_senior
-
-This is a Senior level [Next.js] project bootstrapped with [`create-next-app`]
-
 ## Getting Started
 
 First, run the development server:
